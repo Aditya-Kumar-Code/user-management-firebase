@@ -3,7 +3,7 @@
 
 
 
-Sure, here's a Postman collection for your FastAPI-based API, along with brief descriptions of each endpoint. You can import this collection into Postman to interact with your API.
+here's a Postman collection for my FastAPI-based API, along with brief descriptions of each endpoint. You can import this collection into Postman to interact with your API.
 
 ### Postman Collection: FastAPI Firebase Auth
 
