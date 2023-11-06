@@ -20,13 +20,13 @@ if not firebase_admin._apps:
     firebase_admin.initialize_app(cred)
 # Firebase configuration
 firebase_config = {
-    "apiKey": "AIzaSyClRZ13X7twDga1RH1-u7Lp3B7tqtAumfU",
-    "authDomain": "webapp-367fa.firebaseapp.com",
-    "projectId": "webapp-367fa",
-    "storageBucket": "webapp-367fa.appspot.com",
-    "messagingSenderId": "743253707155",
-    "appId": "1:743253707155:web:73b284f9413f411c49c066",
-    "databaseURL":"https://webapp-367fa-default-rtdb.firebaseio.com/"
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "databaseURL":""
 }
 firebase=pyrebase.initialize_app(firebase_config)
 
